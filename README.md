@@ -1,3 +1,3 @@
 # trendmicro-hash-import_PS
-This PowerShell UI is used to importing hashes into the TrendMicro ApplicationControl &amp; VisionOne console using the TrendMicro API.<br>
-<br><img src="https://user-images.githubusercontent.com/15723769/236919332-056a80b2-ace9-42dd-8ffb-36f47ad3b99a.png" width=600px>
+This PowerShell UI is used to importing hashes into the TrendMicro ApplicationControl &amp; VisionOne console using the TrendMicro API.<br><br>Based off the API FROM https://automation.deepsecurity.trendmicro.com/article/12_0/api-reference/tag/Global-Rules/
+<br><br><img src="https://user-images.githubusercontent.com/15723769/236919332-056a80b2-ace9-42dd-8ffb-36f47ad3b99a.png" width=600px>
